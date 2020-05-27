@@ -1,5 +1,5 @@
 # PE-file-checker
-PE file checker
+PE file checker (C# with Visual Studio)
 
 The program checks PE files (Windows exe and dll) for correctness
 
